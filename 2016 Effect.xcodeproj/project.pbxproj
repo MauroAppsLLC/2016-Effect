@@ -251,8 +251,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3ULBBJTR3D;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Capture photos to apply the 2016 nostalgic effect.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Save edited photos to your photo library.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Import photos to apply the 2016 nostalgic effect.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -282,8 +286,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3ULBBJTR3D;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Capture photos to apply the 2016 nostalgic effect.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Save edited photos to your photo library.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Import photos to apply the 2016 nostalgic effect.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
